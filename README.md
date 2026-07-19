@@ -3,10 +3,39 @@
 ## Student
 
 Name : Chinnaphat Phatcharopas
-
+Class : CPE-2
 ID : 116710462023-8
 
 ---
+
+## 📂 Project Structure
+
+DataPreprocessing-Lab
+│
+├── data/
+│   ├── titanic.csv
+│   └── titanic_clean.csv
+│
+├── main.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+## 🛠 Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## 📊 Features
+
+- Dataset Exploration
+- Data Visualization
+- Data Cleaning
+- Feature Engineering
 
 ## Objective
 
