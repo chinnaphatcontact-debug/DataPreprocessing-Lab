@@ -21,6 +21,8 @@ DataPreprocessing-Lab
 ├── README.md
 └── .gitignore
 
+- dataset refer : https://www.kaggle.com/competitions/titanic/data
+
 ## 🛠 Technologies
 
 - Python
